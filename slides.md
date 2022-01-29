@@ -1,4 +1,4 @@
-## Micro-Controller-Introduction
+## Micro-Controller Learning Platform
 
 
 ---
@@ -9,27 +9,46 @@
 
 ---
 
-* Short History / Introduction
-* Different Micro-Controllers
-* Programming-Environments
-* Microcontroller-Learning-Environments
-* Back to History
-* Demo ("Hello World")
+* Recap last micro-controller talk
+* Target-Group
+* Programming-Environment
+* Micro:Bit 
+* Calliope 
+* Sinobit / Kniwwelino 
+* Kickstarter - Thingy
 
 ---
 
-### My first computer (6502 CPU)
+### Short recap 
 
+* complicated setup
+* Arduino enters the world => all in one
+* Raspberry Pi Pico => Python
 
-![Junior](pics/junior_gehaeuse.jpg)
 
 ---
 
-### This _IS_ my first computer
+### Micro-Controller 
 
-![my Junior](pics/jogis_junior.jpg)
+* something to control 
+   * LED
+   * Motor
+   * others
+* somehow be controlled
+   * Sensors
+   * Switches
+   * external events
 
 ---
+
+
+
+### Micro:BIT 
+
+* Platform
+* Web-Editor
+* Simulator 
+* [The Web-Editor](https://makecode.microbit.org/#editor)
 
 ### KIM 1-Clone (6502 CPU) 
 
@@ -479,7 +498,7 @@ Choose yourself
 
 * see git-repo (branch gh_pages)
 * https://github.com/jogi-k/micro-controller-slides/tree/gh-pages
-
+* Micro-Bit-Clone : https://www.crowdsupply.com/seluxit/wappsto-bit
 ---
 
 ### Legal stuff
