@@ -41,14 +41,48 @@
 
 ---
 
-
-
 ### Micro:BIT 
 
+* Launched in 2016 by BBC in UK
+* Target: Every Schoolkid ~ 12y has one
 * Platform
 * Web-Editor
 * Simulator 
 * [The Web-Editor](https://makecode.microbit.org/#editor)
+
+---
+### The Micro:BIT Board
+
+![The Board](pics/microbit_1.jpg)
+
+
+---
+
+
+### Micro:BIT Homepage
+
+![Homepage MicroBit](pics/microbit_start.png)
+
+
+---
+
+### Demo-Time 1
+
+[https://makecode.microbit.org/#editor](https://makecode.microbit.org/#editor)
+
+
+---
+
+### What we (hopefully) saw
+
+* https://microbit.org/
+* ditor : https://makecode.microbit.org/
+* Simple-Programm : https://makecode.microbit.org/_dt5boP7AKaqj
+* Fill-Screen : https://makecode.microbit.org/_R8d2zWgbsUmg
+* Moodsend : https://makecode.microbit.org/_VAiVxqE3CgDP
+
+### 
+
 
 ### KIM 1-Clone (6502 CPU) 
 
