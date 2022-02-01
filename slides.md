@@ -199,7 +199,7 @@
 
 ### Other Resources 
 
-* Kniwwelino : the "same" in Luxembourg, with ESP8166 ==> WLAN
+* Kniwwelino : the "same" in Luxembourg, with ESP8266 ==> WLAN
 * Sinobit : the "same" in China, much more LEDs, no ECO-system
 
 
@@ -218,8 +218,8 @@
 ### Enhancements/Eco-System
 
 * Grove-Sensors for Calliope 
-* lots of motheboards for Micro:BIT
-* e.g. : Edu-Bit
+* lots of motherboards for Micro:BIT
+* e.g. : [Edu-Bit for Micro:BIT](https://www.kickstarter.com/projects/cytrontech/edubit-project-kit-for-children-to-code-play-learn)
 
 ---
 
@@ -242,12 +242,12 @@
 
 ### Link-Collection
 
-* Part 1: https://jogi-k.github.io/micro-controller-slides/
-* Sources : https://github.com/jogi-k/micro-controller-slides/tree/gh-pages
-* Part 2:  https://jogi-k.github.io/micro-controllers-part2/
-* Sources : https://github.com/jogi-k/micro-controllers-part2/tree/gh-pages
-* All of Jogis Trainings-Material (German) : http://calliope-jogi.org/
-* Coder Dojo Luzern : https://coderdojoluzern.ch/
+* [Micro-Controller-Slides Part 1](https://jogi-k.github.io/micro-controller-slides/)
+* [Micro-controller Slides Part 1 Sources](https://github.com/jogi-k/micro-controller-slides/tree/gh-pages)
+* [Micro-controller-Slides Part 2, THIS slides](https://jogi-k.github.io/micro-controllers-part2/)
+* [Micro-controller-Slides Part 2, The sources](https://github.com/jogi-k/micro-controllers-part2/tree/gh-pages)
+* [All of Jogis Trainings-Material (German)](http://calliope-jogi.org/)
+* [Coder Dojo Luzern](https://coderdojoluzern.ch/)
 
 ---
 
