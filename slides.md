@@ -247,6 +247,7 @@
 * Part 2:  https://jogi-k.github.io/micro-controllers-part2/
 * Sources : https://github.com/jogi-k/micro-controllers-part2/tree/gh-pages
 * All of Jogis Trainings-Material (German) : http://calliope-jogi.org/
+* Coder Dojo Luzern : https://coderdojoluzern.ch/
 
 ---
 
