@@ -1,4 +1,4 @@
-## Micro-Controller Learning Platform
+## Micro-Controller Learning Platforms
 
 
 ---
@@ -202,6 +202,16 @@
 * Kniwwelino : the "same" in Luxembourg, with ESP8166 ==> WLAN
 * Sinobit : the "same" in China, much more LEDs, no ECO-system
 
+
+---
+
+
+![Kniwwelino](pics/kniwwelino.jpg)
+
+---
+
+
+![SinoBit](pics/sinobit.jpg)
 
 ---
 
