@@ -15,8 +15,7 @@
 * Programming-Environment
 * Micro:Bit 
 * Calliope 
-* Sinobit / Kniwwelino 
-* Kickstarter - Thingy
+* Other resources 
 
 ---
 
@@ -25,6 +24,7 @@
 * complicated setup
 * Arduino enters the world => all in one
 * Raspberry Pi Pico => Python
+* More : Look at https://jogi-k.github.io/micro-controller-slides/
 
 
 ---
@@ -151,8 +151,9 @@
 * [The Home Page](https://calliope.cc/) 
 * [The Editors](https://calliope.cc/programmieren/editoren)
 * [Microsoft Makecode](https://makecode.calliope.cc/#editor) 
-
-
+* Lots of documentation available in German
+* Even Schoolbook publishers have books in PDF for free
+* Look at my training for teachers, big collection
 
 ---
 
@@ -165,14 +166,66 @@
 
 ### Demo - Time
 
+[Makecode-Editor](https://makecode.calliope.cc/#editor)
+
 
 ---
 
 ###  The Demos
 
+(what we hopefully saw)
+
 * Music : https://makecode.calliope.cc/_hYViPH0ugafK
 * Temperature : https://makecode.calliope.cc/_7tUUJ46crPyf
-* 
+* Alarm-System : https://makecode.calliope.cc/_Ro34x3U6F7sL 
+* The Remote-Control : see on my trainings-page http://calliope-jogi.org
+
+
+---
+
+### My target-group (pre Corona)
+
+![Pre-Corona Kids Training](pics/kids2018.jpg)
+
+
+---
+
+### My target-group (post Corona)
+
+![Post-Corona Kids Training](pics/kids2020.jpg)
+
+
+---
+
+### Other Resources 
+
+* Kniwwelino : the "same" in Luxembourg, with ESP8166 ==> WLAN
+* Sinobit : the "same" in China, much more LEDs, no ECO-system
+
+
+---
+
+### Enhancements/Eco-System
+
+* Grove-Sensors for Calliope 
+* lots of motheboards for Micro:BIT
+* e.g. : Edu-Bit
+
+---
+
+
+![Edu Bit Micro:Bit](pics/edubit.jpg)
+
+
+---
+
+### Conclusion
+
+* German speaking => Start with Calliope
+* English speaking => Start with Micro:BIT
+
+## Have fun !
+
 
 ---
 
@@ -184,7 +237,6 @@
 * Part 2:  https://jogi-k.github.io/micro-controllers-part2/
 * Sources : https://github.com/jogi-k/micro-controllers-part2/tree/gh-pages
 * All of Jogis Trainings-Material (German) : http://calliope-jogi.org/
-* Micro-Bit-Clone : https://www.crowdsupply.com/seluxit/wappsto-bit
 
 ---
 
